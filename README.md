@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently Looking on **Job**
 
-- 👯 I’m looking to collaborate on **Java**
-
 - 📫 How to reach me **mehuljhoka6789@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
